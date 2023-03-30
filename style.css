@@ -23,10 +23,12 @@ h2,
 h3
 {
     color: white;
+    padding: 3px 3px;
 }
 
 h4{
     color: hsl(198.15deg 56.4% 58.63%);
+    padding: 3px;
 }
 
 .clearfix::after {
