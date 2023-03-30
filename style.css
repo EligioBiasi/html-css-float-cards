@@ -17,6 +17,7 @@ header{
 h1{
     color:hsl(338.12deg 75.89% 56.08%);
     padding: 2rem 0;
+    font-size: 1.3rem;
 }
 
 h2,
@@ -29,6 +30,7 @@ h3
 h4{
     color: hsl(198.15deg 56.4% 58.63%);
     padding: 3px;
+    font-size: smaller;
 }
 
 .clearfix::after {
