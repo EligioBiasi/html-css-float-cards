@@ -23,7 +23,7 @@ h2,
 h3
 {
     color: white;
-    padding: 3px 3px;
+    padding: 3px;
 }
 
 h4{
@@ -40,8 +40,10 @@ h4{
 .box{
     width: 33.33%;
     margin-top: 30px;
+    border-right: 20px solid white;
     background-color: hsl(246.67deg 24.32% 7.25%);
 }
+
 
 .float-left{
     float: left;
@@ -49,5 +51,6 @@ h4{
 
 img{
     width: 90px;
+    margin-right: 15px;
 }
 
